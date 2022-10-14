@@ -11,9 +11,9 @@
 
 Project description goes here as well as the goal trying to achieve.
 
-## 📕 How does it work ?
+## 📕 How does it work?
 
-Describe how the projects works.
+Describe how the project works.
 
 ## ⏩ Getting Started
 
@@ -53,4 +53,4 @@ Open-source Template is distributed under the [MIT License](LICENSE).
 
 ---
 
-> 🚀 Don't forget to put a ⭐️ on my repositories !
+> 🚀 Don't forget to put a ⭐️ on my repositories!
